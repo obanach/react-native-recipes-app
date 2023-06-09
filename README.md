@@ -9,7 +9,7 @@ This is a React Native application that provides various food and juice drinks r
 - Utilize timers to help with recipe preparation.
 - Explore a wide variety of recipes for different tastes and occasions.
 
-## App gif
+## App screenshot
 
 ![App gif](/assets/screens/details.png)
 
