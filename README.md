@@ -11,7 +11,7 @@ This is a React Native application that provides various food and juice drinks r
 
 ## App gif
 
-![App gif](/screens/vertical.gif)
+![App gif](/assets/screens/details.png)
 
 ## Installation
 
