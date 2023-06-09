@@ -10,7 +10,6 @@ import FoodView from "./src/screens/home/food";
 import DrinksView from "./src/screens/home/drinks";
 import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons";
 import {recipes} from "./src/data/recipes";
-import {useEffect, useState} from "react";
 
 const theme = {
   ...DefaultTheme,
