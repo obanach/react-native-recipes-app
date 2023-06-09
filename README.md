@@ -28,7 +28,7 @@ npm install
 5. Connect your Android or iOS device to your development machine or set up an emulator/simulator.
 6. Run the app on your device using the following command:
 ```bash
-expo start
+expo start --tunnel
 ```
 
 ## Usage

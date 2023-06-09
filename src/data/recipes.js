@@ -1,7 +1,6 @@
 import {images} from "../style/images";
 import {icons} from "../style/icons";
 
-
 export const recipes = {
     food: [
         {
